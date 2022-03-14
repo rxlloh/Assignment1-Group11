@@ -8,10 +8,10 @@ Read ```zjl-python-Code interpretation).ipynb``` file **first** for an overall c
 
 The rest of the code files can also run independently. Each code file uses a different python algorithms and some are repeated but with adjusted parameters. 
 
-See zjl-python- XGBoost-(Adjust the parameters).ipynb for the code with best prediction.
+See ```zjl-python- XGBoost-(Adjust the parameters).ipynb``` for the code with best prediction.
 
 ## R
-Read rl-overall-interpretation.R **first** for an overall code interpretation.
+Read ```rl-overall-interpretation.R``` **first** for an overall code interpretation.
 
 All of the codes files can run independently. 
 
